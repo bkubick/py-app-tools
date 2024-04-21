@@ -1,0 +1,11 @@
+"""Migration file to manage Version <revision_number>: <revision_description>"""
+
+
+def upgrade() -> None:
+    """Migrate to this version."""
+    pass
+
+
+def downgrade() -> None:
+    """Downgrade to the previous version."""
+    pass
