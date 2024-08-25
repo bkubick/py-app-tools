@@ -1,7 +1,7 @@
 # Python Application Tools (py-app-tools)
 
 ## Description
-Custom libraries I have build that can be used for different types of python web applications.
+Custom libraries I have built that can be used for different types of python web applications.
 
 
 ## Tools
